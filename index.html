@@ -1,0 +1,358 @@
+If you can see this, it hasn't loaded correctly!
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>PROTOTYPE Mapping the JTS</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+<link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
+<script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
+
+<div id='map'></div>
+<div id='console'>
+  <h1>Mapping the Jews' Temporary Shelter DRAFT</h1>
+  <p>Sources aquired from the <a href='https://jewishmuseum.org.uk/2022/01/31/jews-temporary-shelter-cards-a-snapshot/'>Jews Temporary Shelter Cards</a>, London</p>
+
+    <div class='session' id='sliderbar'>
+    <h2>Year: <label id='active-year'>1940</label></h2>
+    <input id='slider' class='row' type='range' min='0' max='11' step='1' value='0' />
+    </div>
+    
+    <nav id="menu"></nav>
+
+
+</div>
+    
+<style>
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#map {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+h1 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+h2 {
+  font-size: 14px;
+  line-height: 20px;
+  margin-bottom: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: #2dc4b2;
+}
+
+#console {
+  position: absolute;
+  width: 240px;
+  margin: 10px;
+  padding: 10px 20px;
+  background-color: white;
+}
+    
+    .mapboxgl-popup {
+max-width: 400px;
+font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+}
+
+    #menu {
+background: #fff;
+position: relative;
+z-index: 1;
+top: 10px;
+right: 10px;
+border-radius: 3px;
+width: 120px;
+border: 1px solid rgba(0, 0, 0, 0.4);
+font-family: 'Open Sans', sans-serif;
+}
+ 
+#menu a {
+font-size: 13px;
+color: #404040;
+display: block;
+margin: 0;
+padding: 0;
+padding: 10px;
+text-decoration: none;
+border-bottom: 1px solid rgba(0, 0, 0, 0.25);
+text-align: center;
+}
+ 
+#menu a:last-child {
+border: none;
+}
+ 
+#menu a:hover {
+background-color: #f8f8f8;
+color: #404040;
+}
+ 
+#menu a.active {
+background-color: #3887be;
+color: #ffffff;
+}
+ 
+#menu a.active:hover {
+background: #3074a4;
+}
+
+    
+    
+</style>
+</head>
+
+<body>
+
+
+
+<script>
+    //Map details and access informaiton
+    mapboxgl.accessToken = 'pk.eyJ1IjoibGV3aXNjaHNtaXRoIiwiYSI6ImNrejFocmUxZDAyZWcyd29kdGozdGVxbGoifQ.L6kjk_EeZGQLSxf6EXrfxQ';
+        const map = new mapboxgl.Map({
+            container: 'map',
+            style: 'mapbox://styles/lewischsmith/ckz1htzx8000h14tbj0uq35gb/draft',
+            center: [-0.250,51.567],
+            zoom: 8
+        });
+    
+//Adding points from the GeoJson
+    map.on('load', () => {
+        
+        
+    //Map Coordinates and information
+       map.addSource('arrived_from_lines', {
+                type: 'geojson',
+                // Use a URL for the value for the `data` property.
+                data: '/data/Arrival_Lines.geojson',
+          });
+        
+        map.addLayer({
+            'id': 'arrived_from_lines',
+            'type': 'line',
+            'source': 'arrived_from_lines',
+            'layout': {
+                // Make the layer visible by default.
+                'visibility': 'visible',
+                'line-join': 'round',
+                'line-cap': 'round'
+        },
+        'paint': {
+            'line-color': '#e30707',
+            'line-width': ['get', 'Weight']
+        }
+    });
+        
+               map.addSource('departure_to_lines', {
+                type: 'geojson',
+                // Use a URL for the value for the `data` property.
+                data: '/data/Departure_Lines.geojson',
+          });
+        
+        map.addLayer({
+            'id': 'departure_to_lines',
+            'type': 'line',
+            'source': 'departure_to_lines',
+            'layout': {
+                'visibility': 'visible',
+                'line-join': 'round',
+                'line-cap': 'round'
+        },
+        'paint': {
+            'line-color': '#3461eb',
+            'line-width': ['get', 'Weight']
+        }
+    });
+        
+         map.addSource('arrived_from', {
+                type: 'geojson',
+                // Use a URL for the value for the `data` property.
+                data: '/data/Geojson TestII.geojson',
+          });
+        
+        
+    map.addLayer({
+        'id': 'arrived_from-layer',
+        'type': 'circle',
+        'source': 'arrived_from',
+        'layout': {
+                'visibility': 'visible'
+        },
+        'paint': {
+            'circle-radius': 8,
+            'circle-stroke-width': 2,
+            'circle-color': 'red',
+            'circle-stroke-color': 'white'
+         },
+        });
+        
+                 map.addSource('departed_to', {
+                type: 'geojson',
+                // Use a URL for the value for the `data` property.
+                data: '/data/Final_Departure_Data.geojson',
+          });
+        
+        map.addLayer({
+        'id': 'departed_to-layer',
+        'type': 'circle',
+        'source': 'departed_to',
+        'layout': {
+                'visibility': 'visible'
+        },    
+        'paint': {
+            'circle-radius': 8,
+            'circle-stroke-width': 2,
+            'circle-color': 'blue',
+            'circle-stroke-color': 'white'
+         },
+        });
+
+        //Sliderbar Filter by year
+        document.getElementById('slider').addEventListener('input', (event) => {
+        const ayear = 1940+parseInt(event.target.value);
+        map.setFilter('arrived_from_lines', ['==', ['number', ['get', 'Year']], ayear]); 
+        map.setFilter('departure_to_lines', ['==', ['number', ['get', 'Year']], ayear]);
+        map.setFilter('arrived_from-layer', ['==', ['number', ['get', 'Ayear']], ayear]);
+        map.setFilter('departed_to-layer', ['==', ['number', ['get', 'DYear']], ayear]);    
+        document.getElementById('active-year').innerText = ayear;
+        });  
+        
+ 
+        // When a click event occurs on a feature in the places layer, open a popup at the
+        // location of the feature, with description HTML from its properties.
+        map.on('click', 'arrived_from-layer', (e) => {
+        // Copy coordinates array.
+        const coordinates = e.features[0].geometry.coordinates.slice();
+        const description = e.features[0].properties.Description;
+
+        // Ensure that if the map is zoomed out such that multiple
+        // copies of the feature are visible, the popup appears
+        // over the copy being pointed to.
+        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        }
+
+        new mapboxgl.Popup()
+        .setLngLat(coordinates)
+        .setHTML(description)
+        .addTo(map);
+        });
+
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', 'arrived_from-layer', () => {
+        map.getCanvas().style.cursor = 'pointer';
+        });
+
+        // Change it back to a pointer when it leaves.
+        map.on('mouseleave', 'arrived_from-layer', () => {
+        map.getCanvas().style.cursor = '';      
+        });  
+        
+        // When a click event occurs on a feature in the places layer, open a popup at the
+        // location of the feature, with description HTML from its properties.
+        map.on('click', 'departed_to-layer', (e) => {
+        // Copy coordinates array.
+        const coordinates = e.features[0].geometry.coordinates.slice();
+        const description = e.features[0].properties.Description;
+
+        // Ensure that if the map is zoomed out such that multiple
+        // copies of the feature are visible, the popup appears
+        // over the copy being pointed to.
+        while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
+        coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+        }
+
+        new mapboxgl.Popup()
+        .setLngLat(coordinates)
+        .setHTML(description)
+        .addTo(map);
+        });
+
+        // Change the cursor to a pointer when the mouse is over the places layer.
+        map.on('mouseenter', 'departed_to-layer', () => {
+        map.getCanvas().style.cursor = 'pointer';
+        });
+
+        // Change it back to a pointer when it leaves.
+        map.on('mouseleave', 'departed_to-layer', () => {
+        map.getCanvas().style.cursor = '';      
+        });  
+
+    //Mapbox navigation controls
+    map.addControl(new mapboxgl.NavigationControl());
+
+    })
+    
+// After the last frame rendered before the map enters an "idle" state.
+map.on('idle', () => {
+// If these two layers were not added to the map, abort
+if (!map.getLayer('arrived_from_lines') || !map.getLayer('departure_to_lines') || !map.getLayer('arrived_from-layer') || !map.getLayer('departed_to-layer')) {
+return;
+}
+ 
+// Enumerate ids of the layers.
+const toggleableLayerIds = ['arrived_from_lines', 'departure_to_lines','arrived_from-layer','departed_to-layer'];
+ 
+// Set up the corresponding toggle button for each layer.
+for (const id of toggleableLayerIds) {
+// Skip layers that already have a button set up.
+if (document.getElementById(id)) {
+continue;
+}
+ 
+// Create a link.
+const link = document.createElement('a');
+link.id = id;
+link.href = '#';
+link.textContent = id;
+link.className = 'active';
+ 
+// Show or hide layer when the toggle is clicked.
+link.onclick = function (e) {
+const clickedLayer = this.textContent;
+e.preventDefault();
+e.stopPropagation();
+ 
+const visibility = map.getLayoutProperty(
+clickedLayer,
+'visibility'
+);
+ 
+// Toggle layer visibility by changing the layout object's visibility property.
+if (visibility === 'visible') {
+map.setLayoutProperty(clickedLayer, 'visibility', 'none');
+this.className = '';
+} else {
+this.className = 'active';
+map.setLayoutProperty(
+clickedLayer,
+'visibility',
+'visible'
+);
+}
+};
+ 
+const layers = document.getElementById('menu');
+layers.appendChild(link);
+}
+});    
+ 
+ 
+    
+</script>
+ 
+</body>
+</html>

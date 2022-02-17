@@ -1,0 +1,2637 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3688,48.2025 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Vienna",
+    "ADate":"23/12/1949",
+    "ADay":23,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.1169,53.5444 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Oldham",
+    "ADate":"28/03/1950",
+    "ADay":28,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.695,52.633 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Tamworth",
+    "ADate":"09/01/1950",
+    "ADay":9,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8258,18.975 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Mumbai",
+    "ADate":"05/03/1950",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"14/12/1949",
+    "ADay":14,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.9888,32.8173 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Haifa",
+    "ADate":"16/03/1950",
+    "ADay":16,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.0405,47.4981 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Budapest",
+    "ADate":"23/02/1950",
+    "ADay":23,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3707,50.836 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Brussels",
+    "ADate":"15/12/1949",
+    "ADay":15,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"31/03/1950",
+    "ADay":31,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"01/04/1950",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"01/04/1950",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"01/04/1950",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"01/04/1950",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"01/04/1950",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3702,22.5656 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Kolkata",
+    "ADate":"26/06/1950",
+    "ADay":26,
+    "AMonth":6,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.699,53.759 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Preston, Lancashire",
+    "ADate":"08/01/1950",
+    "ADay":8,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6795,50.1109 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Frankfurt",
+    "ADate":"15/02/1950",
+    "ADay":15,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6795,50.1109 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Frankfurt",
+    "ADate":"15/02/1950",
+    "ADay":15,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5802,48.1391 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Munich",
+    "ADate":"29/12/1949",
+    "ADay":29,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.2663,43.7034 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Nice",
+    "ADate":"17/07/1941",
+    "ADay":17,
+    "AMonth":7,
+    "AYear":1941
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.9336,54.8951 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Carlisle",
+    "ADate":"31/01/1950",
+    "ADay":31,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3707,50.836 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Brussels",
+    "ADate":"31/01/1950",
+    "ADay":31,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"30/01/1950",
+    "ADay":30,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.259,55.858 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Glasgow",
+    "ADate":"27/01/1950",
+    "ADay":27,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2344,53.4807 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Manchester",
+    "ADate":"08/03/1946",
+    "ADay":8,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.119,52.205 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Cambridge",
+    "ADate":"05/03/1946",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.119,52.205 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Cambridge",
+    "ADate":"05/03/1946",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.119,52.205 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Cambridge",
+    "ADate":"05/03/1946",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.8869,53.5666 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Ormskirk",
+    "ADate":"19/02/1950",
+    "ADay":19,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"13/02/1950",
+    "ADay":13,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"09/02/1950",
+    "ADay":9,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.6795,50.1109 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Frankfurt",
+    "ADate":"03/03/1950",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"05/03/1950",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.1833,48.7833 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Stuttgart",
+    "ADate":"15/03/1950",
+    "ADay":15,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 88.3702,22.5656 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Kolkata",
+    "ADate":"05/03/1950",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"15/04/1946",
+    "ADay":15,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"15/04/1946",
+    "ADay":15,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.0138,51.1745 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Lingfield",
+    "ADate":"05/04/1946",
+    "ADay":5,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9769,51.1498 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Alton",
+    "ADate":"05/04/1946",
+    "ADay":5,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -3.0005,55.1521 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Langholm",
+    "ADate":"20/02/1950",
+    "ADay":20,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4007,53.8615 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"East Riding of Yorkshire",
+    "ADate":"20/02/1950",
+    "ADay":20,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.55,47.3667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Z�rich",
+    "ADate":"22/02/1950",
+    "ADay":22,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 3.4848,51.4096 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Glamorgan",
+    "ADate":"21/02/1950",
+    "ADay":21,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.4,51.217 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Antwerp",
+    "ADate":"22/02/1950",
+    "ADay":22,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8907,52.3732 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Amsterdam",
+    "ADate":"23/02/1950",
+    "ADay":23,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"24/02/1950",
+    "ADay":24,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"26/02/1950",
+    "ADay":26,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.5131,33.8869 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Beirut",
+    "ADate":"03/03/1950",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.15,16.8 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Yangon",
+    "ADate":"05/03/1950",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.15,16.8 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Yangon",
+    "ADate":"05/03/1950",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 96.15,16.8 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Yangon",
+    "ADate":"05/03/1950",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 72.8258,18.975 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Mumbai",
+    "ADate":"05/03/1950",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 10.8989,48.0478 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Landsberg am Lech",
+    "ADate":"09/03/1950",
+    "ADay":9,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.8306,48.6244 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Geislingen an der Steige",
+    "ADate":"09/03/1950",
+    "ADay":9,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.7524,53.7939 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bradford",
+    "ADate":"01/04/1946",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2986,51.3101 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Ashtead",
+    "ADate":"27/03/1946",
+    "ADay":27,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9769,51.1498 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Alton",
+    "ADate":"21/03/1946",
+    "ADay":21,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5492,53.7997 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Leeds",
+    "ADate":"15/03/1950",
+    "ADay":15,
+    "AMonth":3,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.0686,59.3294 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Stockholm",
+    "ADate":"30/01/1950",
+    "ADay":30,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"28/01/1950",
+    "ADay":28,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.259,55.858 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Glasgow",
+    "ADate":"27/01/1950",
+    "ADay":27,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"17/01/1950",
+    "ADay":17,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9426,53.3232 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Retford",
+    "ADate":"18/03/1946",
+    "ADay":18,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.4275,53.2358 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Chesterfield",
+    "ADate":"05/03/1946",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.119,52.205 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Cambridge",
+    "ADate":"05/03/1946",
+    "ADay":5,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"02/03/1946",
+    "ADay":2,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.3707,50.836 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Brussels",
+    "ADate":"12/01/1950",
+    "ADay":12,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"09/01/1950",
+    "ADay":9,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"01/04/1950",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"03/03/1946",
+    "ADay":3,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5802,48.1391 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Munich",
+    "ADate":"29/12/1949",
+    "ADay":29,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"15/04/1946",
+    "ADay":15,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9769,51.1498 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Alton",
+    "ADate":"05/04/1946",
+    "ADay":5,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9769,51.1498 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Alton",
+    "ADate":"05/04/1946",
+    "ADay":5,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"01/04/1946",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"01/04/1946",
+    "ADay":1,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.9769,51.1498 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Alton",
+    "ADate":"21/03/1946",
+    "ADay":21,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2344,53.4807 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Manchester",
+    "ADate":"27/02/1946",
+    "ADay":27,
+    "AMonth":2,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2344,53.4807 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Manchester",
+    "ADate":"27/02/1946",
+    "ADay":27,
+    "AMonth":2,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"15/12/1949",
+    "ADay":15,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Holland",
+    "ADate":"15/12/1949",
+    "ADay":15,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.5802,48.1391 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Munich",
+    "ADate":"13/12/1949",
+    "ADay":13,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 16.3688,48.2025 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Vienna",
+    "ADate":"18/12/1949",
+    "ADay":18,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"04/01/1950",
+    "ADay":4,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.5492,53.7997 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Leeds",
+    "ADate":"08/01/1950",
+    "ADay":8,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6544,53.5791 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Scunthorpe",
+    "ADate":"08/01/1950",
+    "ADay":8,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.6544,53.5791 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Scunthorpe",
+    "ADate":"08/01/1950",
+    "ADay":8,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.0176,52.6525 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Landywood",
+    "ADate":"09/01/1950",
+    "ADay":9,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -1.863,53.725 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Halifax",
+    "ADate":"09/01/1950",
+    "ADay":9,
+    "AMonth":1,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.8907,52.3732 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Amsterdam",
+    "ADate":"20/02/1946",
+    "ADay":20,
+    "AMonth":2,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3492,36.1358 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Gibraltar",
+    "ADate":"11/10/1945",
+    "ADay":11,
+    "AMonth":10,
+    "AYear":1945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -5.3492,36.1358 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Gibraltar",
+    "ADate":"11/10/1945",
+    "ADay":11,
+    "AMonth":10,
+    "AYear":1945
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.2485,52.5734 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Peterborough",
+    "ADate":"09/06/1948",
+    "ADay":9,
+    "AMonth":6,
+    "AYear":1948
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2344,53.4807 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Manchester",
+    "ADate":"08/05/1946",
+    "ADay":8,
+    "AMonth":5,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"27/04/1946",
+    "ADay":27,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"21/04/1946",
+    "ADay":21,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"18/04/1946",
+    "ADay":18,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"15/04/1946",
+    "ADay":15,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.4577,52.1337 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Bedford",
+    "ADate":"15/04/1946",
+    "ADay":15,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"01/03/1946",
+    "ADay":1,
+    "AMonth":3,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.0582,51.0806 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Barnstaple",
+    "ADate":"19/02/1950",
+    "ADay":19,
+    "AMonth":2,
+    "AYear":1950
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1948",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1948
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"19/12/1949",
+    "ADay":19,
+    "AMonth":12,
+    "AYear":1949
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 14.4661,50.0667 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Prague",
+    "ADate":"11/06/1946",
+    "ADay":11,
+    "AMonth":6,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"16/05/1946",
+    "ADay":16,
+    "AMonth":5,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2344,53.4807 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Manchester",
+    "ADate":"08/05/1946",
+    "ADay":8,
+    "AMonth":5,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"30/04/1946",
+    "ADay":30,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"25/04/1946",
+    "ADay":25,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -2.2344,53.4807 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Manchester",
+    "ADate":"25/04/1946",
+    "ADay":25,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"25/04/1946",
+    "ADay":25,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -0.1262,51.5002 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"London",
+    "ADate":"25/04/1946",
+    "ADay":25,
+    "AMonth":4,
+    "AYear":1946
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 2.3508,48.8569 ]
+    },
+    "properties": {
+    "arrived from (CITY/COUNTY)":"Paris",
+    "ADate":"10/02/1950",
+    "ADay":10,
+    "AMonth":2,
+    "AYear":1950
+    }
+  }
+]
+}
