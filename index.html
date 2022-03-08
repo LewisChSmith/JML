@@ -11,11 +11,11 @@
     
 <div id='console'>
   <h1>Mapping the Jews' Temporary Shelter</h1>
-      <p>Welcome to the Temporary Shelter map - each point represents a point where someone had departed for the Temporary Shelter, orhad arrived from the Temporary Shelter. For more information, please visit the project page at <a href='https://jewishmuseum.org.uk/'>the Jewish Museum, London</a>.</p>
+      <p>Welcome to the Temporary Shelter map - each point represents a point where someone had <i>departed for</i> the Temporary Shelter, or <i>settled away from</i> the Temporary Shelter. For more information, please visit the project page at <a href='https://jewishmuseum.org.uk/'>the Jewish Museum, London</a>.</p>
 
     <div class="session">
 <div class='session'>
-  <h2>Day of the week</h2>
+  <h2>Filter by Year:</h2>
   <div class='row' id='filters'>
     <input id='all' type='radio' name='toggle' value='all' checked='checked'>
     <label for='all'>All Years</label>
@@ -27,7 +27,7 @@
     
     
     <div class='session' id='sliderbar'>
-    <h2>Filter by Year: <label id='active-year'>1940</label></h2>
+    <h2>Filter Year: <label id='active-year'>All Years</label></h2>
     <input id='slider' class='row' type='range' min='0' max='12' step='1' value='0' />
     </div>
     
@@ -35,24 +35,18 @@
   <span style="color: #000000">and </span>
     <span style="color: #ebe534; font-weight:bold;">Yellow </span>
     <span style="color: #000000">points are correct at a</span>
-    <span style="color: #000000; font-weight:bold;">national level</span>
+    <span style="color: #000000; font-weight:bold;">National level.</span>
 </p>
 <p style="color:#ec008e; font-weight:bold;"> Pink 
   <span style="color: #000000">and </span>
     <span style="color: #30b2c3; font-weight:bold;">Blue </span>
     <span style="color: #000000">points are correct at a</span>
-    <span style="color: #000000; font-weight:bold;">Town level</span>
+    <span style="color: #000000; font-weight:bold;">Town level.</span>
 </p>     
-        
-        
-        
-        
-    <h2><br>Use the buttons below to hide/show lines representing the movement of people, where thickness represents no. of people:</h2>
+     <h2><br>Use the buttons below to hide/show lines representing the movement of people, where thickness represents no. of people:</h2>
     
     <nav id="menu"></nav>
     
-        
-        
 </div>
     
     
@@ -448,10 +442,10 @@ background: #3074a4;
   const day = event.target.value;
   // update the map filter
   if (day === 'all') {
-    //filterDay = ['!=', ['number', ['get', 'Day']], 'placeholder'];
     filterDay = 'All Years' ;
     document.getElementById('slider').disabled = true;  
-    
+    document.getElementById('active-year').innerText = 'All Years'
+      
     map.setFilter('myLayer', null)
     map.setFilter('Departing_To_Points', null)
     map.setFilter('Arrived_From_Points', null)
@@ -471,8 +465,6 @@ background: #3074a4;
       const ayear = 1940+parseInt(event.target.value)    
       map.setFilter('Departing_To_Points', ['==', ['number', ['get', 'Dyear']], ayear]); 
       map.setFilter('Arrived_From_Points', ['==', ['number', ['get', 'Ayear']], ayear]); 
-      //map.setFilter('Arrival_Lines_Points', ['==', ['number', ['get', 'Year']], ayear]); 
-      //map.setFilter('Departure_Line_Points', ['==', ['number', ['get', 'Year']], ayear]);     
       map.setFilter('National_Arrived_From_Points', ['==', ['number', ['get', 'Ayear']], ayear]);
       map.setFilter('National_Departing_To_Points', ['==', ['number', ['get', 'Dyear']], ayear]);
       map.setFilter('arrived_from_lines', ['==', ['number', ['get', 'Year']], ayear]);
